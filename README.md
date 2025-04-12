@@ -14,28 +14,28 @@ Welcome to FinSight! This powerful Streamlit application helps you take control 
 
 ## 🛠️ Technologies Used
 
-* **Streamlit:** For building the interactive web application interface[cite: 1].
-* **Mindee:** For accurate receipt scanning and Optical Character Recognition (OCR)[cite: 1].
-* **Google Gemini:** For generating AI-driven financial insights and categorization[cite: 1].
-* **Pandas:** For efficient data manipulation and analysis[cite: 1].
-* **Plotly:** For creating interactive and beautiful data visualizations[cite: 1].
-* **Python-dotenv:** For managing environment variables and API keys securely[cite: 1].
+* **Streamlit:** For building the interactive web application interface.
+* **Mindee:** For accurate receipt scanning and Optical Character Recognition (OCR).
+* **Google Gemini:** For generating AI-driven financial insights and categorization.
+* **Pandas:** For efficient data manipulation and analysis.
+* **Plotly:** For creating interactive and beautiful data visualizations.
+* **Python-dotenv:** For managing environment variables and API keys securely.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-* Python 3.x installed
+* Python 3 installed
 * API Keys (see below)
 
 ### Setup Instructions
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd HS-Hacks
+    git clone https://github.com/TechNerd2009/FinSight
+    cd FinSight
     ```
-2.  **Install Dependencies:** Create a virtual environment (recommended) and install the required packages[cite: 1]:
+2.  **Install Dependencies:** Create a virtual environment (recommended) and install the required packages:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
