@@ -2,6 +2,8 @@
 
 Welcome to FinSight! This powerful Streamlit application helps you take control of your finances by tracking expenses through receipt scanning and providing insightful analysis powered by AI. 📈
 
+---
+
 ## ✨ Features
 
 * **🧾 Receipt Scanning:** Easily upload or snap photos of receipts. FinSight automatically extracts items and prices using Mindee OCR technology.
@@ -12,6 +14,8 @@ Welcome to FinSight! This powerful Streamlit application helps you take control 
 * **✏️ Data Editing & Filtering:** Easily edit transaction details and filter your spending data by "Want/Need" or category.
 * **📈 Visual Analytics:** Interactive charts (like pie charts for spending by category) powered by Plotly help you visualize your financial data.
 
+---
+
 ## 🛠️ Technologies Used
 
 * **Streamlit:** For building the interactive web application interface.
@@ -20,6 +24,8 @@ Welcome to FinSight! This powerful Streamlit application helps you take control 
 * **Pandas:** For efficient data manipulation and analysis.
 * **Plotly:** For creating interactive and beautiful data visualizations.
 * **Python-dotenv:** For managing environment variables and API keys securely.
+
+---
 
 ## 🚀 Getting Started
 
@@ -52,10 +58,14 @@ Welcome to FinSight! This powerful Streamlit application helps you take control 
     ```
     The application should now be running and accessible in your web browser!
 
+---
+
 ## 🔑 API Keys Required
 
 * **Mindee API Key:** Obtainable from [Mindee](https://www.mindee.com/). Used for processing receipts.
 * **Google Gemini API Key:** Obtainable from [Google AI Studio](https://aistudio.google.com/). Used for generating insights and categorization.
+
+---
 
 ## 📖 How to Use
 
@@ -66,6 +76,20 @@ Welcome to FinSight! This powerful Streamlit application helps you take control 
 5.  **🧠 Get Insights:** Visit the "Smart Insights" page for AI-generated analysis of your spending habits, potential savings, and helpful financial tips.
 6.  **🎯 Set Budget:** On the Dashboard, set or update your monthly budget goal.
 
+---
+
 ## 🙌 Contributing
 
 Contributions are welcome! Feel free to submit issues for bugs or suggest enhancements. Fork the repository and submit a pull request with your changes.
+
+---
+
+## 📩 Contact Me  
+
+If you have any questions, feedback, or want to collaborate, feel free to reach out:  
+- Email: krishnamurthyshankar9@gmail.com or slakshan30@gmail.com
+- GitHub: https://github.com/TechNerd2009 or https://github.com/Luck-shun30
+
+---
+
+## 🎉 If you find this repository helpful, consider giving it a star ⭐!
