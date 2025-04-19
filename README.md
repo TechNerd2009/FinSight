@@ -7,6 +7,8 @@ Welcome to FinSight! This powerful Streamlit application helps you take control 
 ## Dashboard
 ![Image of FinSight Dashboard Screen](Dashboard%20-%20FinSight.jpeg)
 
+---
+
 ## ✨ Features
 
 * **🧾 Receipt Scanning:** Easily upload or snap photos of receipts. FinSight automatically extracts items and prices using Mindee OCR technology.
